@@ -1,7 +1,7 @@
 # Discovery of Innovative Knowledge through Optimization and Machine Learning.
 
 ## Objective
-- The overall objective is to develop a multi-objective optimization algorithim which could be applied on real world problems.
+- The  aim is to develop a learning mechanism that can learn some problem-specific knowledge while solving an optimization problem using an EMO (Evolutionary Multiobjective Optimization) Algorithm through Machine Learning.
 - This project aims to develop a model which could learn to improve the existing location of a point in 30 dimensional space over different generations for a continuous distribution of points.
 
 ## Test Problem
